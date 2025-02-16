@@ -1,3 +1,3 @@
 # Introduction
 
-Weekly Report & history log
+This is pstvman's Weekly Study Report.
